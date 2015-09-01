@@ -1,0 +1,25 @@
+{
+  "name": "node-sqllite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "install": "^0.1.8",
+    "npm": "^2.14.1",
+    "sqlite3": "^3.0.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattfili/node-SQLlite.git"
+  },
+  "author": "matt fili <matthewjosephfili@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattfili/node-SQLlite/issues"
+  },
+  "homepage": "https://github.com/mattfili/node-SQLlite#readme"
+}
